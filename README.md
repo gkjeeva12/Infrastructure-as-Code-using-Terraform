@@ -1,3 +1,9 @@
+Internship Details
+Name: G K Jeeva
+Intern ID: CITS3332
+Domain: DevOps
+Duration: 3rdJune 2026 – 1stJuly 2026
+
 # Infrastructure as Code (IaC) using Terraform
 
 ## 📌 Project Overview
