@@ -79,10 +79,10 @@ terraform destroy
 Add screenshots of:
 
 ## Terraform Init
-![Terraform Init](screenshots/terraform init.png)
+![Terraform Init](screenshot/terraform init.png)
 
 ## Terraform Plan
-![Terraform Plan](screenshots/terraform plan.png)
+![Terraform Plan](screenshot/terraform plan.png)
 
 ## 📈 Learning Outcomes
 
