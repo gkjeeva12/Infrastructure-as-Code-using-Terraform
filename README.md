@@ -74,16 +74,6 @@ terraform apply
 terraform destroy
 ```
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-## Terraform Init
-![Terraform Init](screenshot/terraform init.png)
-
-## Terraform Plan
-![Terraform Plan](screenshot/terraform plan.png)
-
 ## 📈 Learning Outcomes
 
 * Learned Infrastructure as Code (IaC) concepts.
